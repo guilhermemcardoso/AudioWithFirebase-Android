@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioWithFirebase</string>
+    <string name="play_text">Play</string>
+    <string name="record_text">Record</string>
+    <string name="nothing_text">Nothing</string>
+    <string name="author_hint">Digite o nome do autor</string>
+    <string name="nenhuma_mensagem_text">Nenhuma mensagem gravada...</string>
+</resources>
